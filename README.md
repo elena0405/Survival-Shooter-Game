@@ -1,5 +1,7 @@
 # GFX Framework
 
+Fisierele pentru proiect se pot vedea in directorul: src/lab_m1/Tema1
+
 ## :sparkles: Introduction
 
 This project is a tiny graphics framework used by the Computer Graphics Department of the Polytechnic University of Bucharest.
